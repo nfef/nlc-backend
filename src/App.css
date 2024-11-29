@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* Ajout des marges internes pour le corps de la page */
+.App-body {
+  padding: 20px;
+}
+
+
